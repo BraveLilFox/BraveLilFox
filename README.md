@@ -1,6 +1,7 @@
 ### Hi There, I Am Kaide Ryder Potchka
 
 #### About Me
+Welcome to my Github Page! My name is Kaide and I am a Full-Stack Developer/ Graphic Designer from the United States.
 
 #### Skills
 
