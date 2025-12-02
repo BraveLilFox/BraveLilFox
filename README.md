@@ -1,4 +1,4 @@
-# Kaide Salo - Software Engineer
+![Kaide Salo Banner Image](./untitled. png)
 
 ### Hello There! 👋
 
