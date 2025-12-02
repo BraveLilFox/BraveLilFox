@@ -1,4 +1,4 @@
-![Kaide Salo Banner Image](./untitled. png)
+![Title Banner](https://github.com/BraveLilFox/BraveLilFox/blob/main/Untitled.png "Logo Title Text 1")
 
 ### Hello There! 👋
 
