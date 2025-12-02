@@ -1,7 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=0:F7B267,25:F79D65,50:F4845F,75:F27059,100:F25C54&text=Kaide%20Ryder🦊&height=150&animation=scaleIn)
+# Kaide Salo - Software Engineer
+
+### Hello There! 👋
+
+I am Kaide Salo!
+
+### Currently I am Learning
+- SVAD150 Cloud Foundations
+- SDEV264 Mobile Application Development
+- SDEV153 Web Site Development
+- SDEV220 Software Development using Python
+
+
+
 
 #### About Me
-Welcome to my Github Page! My name is Kaide and I am a current college student studying at Ivytech Community College in pursuit of becoming a Mobile Application Developer. I am driven by trying to develop things that make lives easy to live by across the board and strive to make contribution in fields such as Artificial Inmtelligence, Machine Learning, and Data Analysis. While this Github Page has been here for a couple years now, I am actively trying to provide anyone who visits this page my journey of learning about current and developing machines/languages.
+Welcome to my Github Page! My name is Kaide and I am a current college student studying at Ivytech Community College in pursuit of becoming a Software Engineer. I am driven by trying to develop things that make lives easy to live by across the board and strive to make contribution in fields such as Artificial Inmtelligence, Machine Learning, and Data Analysis. While this Github Page has been here for a couple years now, I am actively trying to provide anyone who visits this page my journey of learning about current and developing machines/languages.
 
 - Location: Indiana, United States
 - Email: kaideryder@vulpibyte.dev
