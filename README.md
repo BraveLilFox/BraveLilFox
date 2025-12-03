@@ -14,4 +14,4 @@ __Ivy Tech Community College__
 
 ### Project Challenge
 
-___Project Challenge___ is my own personal software/hardware development gowth challenge where I am learning to be proficient in both Machine Learning and Hardware Learning concepts by develing deeper into the concepts on my own time and resources. All software projects will be linked in my GitHub and all hardware projects will be available through my [Medium Blog](https://medium.com/@vulpibyte).
+___Project Challenge___ is my own personal software/hardware development growth challenge where I am learning to be proficient in both Machine Learning and Hardware Learning concepts by develing deeper into the concepts on my own time and resources. All software projects will be linked in my GitHub and all hardware projects will be available through my [Medium Blog](https://medium.com/@vulpibyte).
